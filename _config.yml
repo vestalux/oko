@@ -1,12 +1,12 @@
 # Site settings
 title: Monoport
-email:hi@monoport.hu
+email: hi@monoport.hu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "monoport2" # the subpath of your site, e.g. /blog/
 url: "https://vestalux.github.io" # the base hostname & protocol for your site
 
-twitter_username:monoport
-github_username:vestalux
+twitter_username: monoport
+github_username: vestalux
 
 # Build settings
 markdown: kramdown
