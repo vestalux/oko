@@ -1,8 +1,16 @@
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12 text-center">
+                  <h2 class="section-heading">Termékeink</h2>
+                  <hr class="primary">
+              </div>
+          </div>
+      </div>
         <div class="row no-gutter">
-		
-		 
+
+
 
      {% for post in site.portfolio limit:6 %}
             <div class="col-lg-4 col-sm-6">
@@ -21,8 +29,8 @@
                 </a>
             </div>
 		{% endfor %}
-			  
-			
+
+
         </div>
     </div>
 </section>
