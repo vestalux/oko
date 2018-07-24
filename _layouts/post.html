@@ -2,7 +2,7 @@
 layout: default
 ---
 
- <section class="bg-primary" id="about">
+ <section class="bg-primary post" id="about">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -18,6 +18,9 @@ layout: default
  <div class="content">
       <div class="container col-lg-8 col-lg-offset-2 text-center">
 <br/>
+{% if page.image %}
+				<img src="{{ site.url }}{{ page.title }}"
+				{% endif %}
 <br/>
    {{ content }}
       </div>
