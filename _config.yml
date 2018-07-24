@@ -3,8 +3,8 @@ title: Öko-Hungary
 email: info@oko.eu
 phone: +36-30-821-4589
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/oko/" # the subpath of your site, e.g. /blog/
-url: "https://vestalux.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "oko-hungary.eu" # the base hostname & protocol for your site
 
 facebook_username: Öko-Hungary-1802766113351259
 github_username:
