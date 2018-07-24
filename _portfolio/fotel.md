@@ -1,6 +1,7 @@
 ---
 title: Karfás fotel
 description:  A 60-as évek ikonikus karfás foteljei modern köntösben
+category: bútor
 layout: post
 date: '2017-03-13T00:00:00+01:00'
 image: "img/portfolio/3.jpg"
