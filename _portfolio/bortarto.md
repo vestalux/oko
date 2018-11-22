@@ -1,6 +1,6 @@
 ---
 title: Bortartó
-description:
+description: Jó bornak is kell cégér
 category: borászat
 layout: post
 date: '2018-11-22T00:00:00+01:00'
