@@ -15,7 +15,7 @@
 
      {% for post in site.portfolio limit:6 %}
             <div class="col-lg-4 col-sm-6">
-                <a href="http://oko-hungary.eu/{{ post.url }}" class="portfolio-box">
+                <a href="{{ site.url }}{{ post.url }}" class="portfolio-box">
                     <img src="{{ post.image }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
