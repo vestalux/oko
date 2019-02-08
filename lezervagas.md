@@ -1,6 +1,7 @@
 ---
 title: Lézervágás
-description:
+description: Rugalmas gyártás
+category: lézervágás
 layout: post
 date: '2018-11-22T00:00:00+01:00'
 image: "img/lezervagas.jpg"
@@ -22,7 +23,7 @@ A plexi az egyik legjobban hozzáférhető és kónnyen használható műanyag a
 Gépeinkkel 15mm vastagságig vállaljuk a víztiszta akril lemez lézervágását, amiből bármilyen betű, forma tetszőlegesen megvalósítható. Minimum betűméret 20mm, az ennél kisebb betűknél már nagyon vékonyak a vonalak, elég az anyag. Víztiszta plexiből 3, 5, 8mm vastag anyagokat tartunk raktáron, de 3mm-es színes plexiből is jelentős készlettel rendelkezünk, legjellemzőbb színek a fehér, fekete, piros, citrom sárga, kék, zöld. Megrendelőink gyakran kérik kétoldalú ragasztóval a lézer vágott plexi betűket.
 
 ## Bőr lézervágás
-A bőr egy 
+A bőr egy
 
 ## Filc lézervágás
 
