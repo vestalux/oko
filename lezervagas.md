@@ -17,4 +17,13 @@ Cégünk rugalmas minimum rendelési tételekkel dolgozik, vállaljuk akár kis 
 Többféle fa anyagot tudunk megmunkálni, legelterjedtebb gravírozható anyag a rétegelt falemez, melyből 4/6/8mm-es vastagságúakat tartunk raktáron. Fa lézergravírozást bármilyen anyagvastagságnál tudunk vállalni, de maximum 10mm-es rétegelt lemezt vágunk át, a kivágott termék széle a hőhatás miatt sötétbarna lesz. A rétegelt falemez gravírozás mellett, dolgozunk MDF lappal illetve különféle puhafával. Vonalas rajzok mellett bitképet is lehet gravírozni (ajándéktárgy, ültetőkártya, díszdoboz borokhoz stb).
 
 ## Plexi lézervágás
-Lézervágó gépünk 15mm vastagságig vágja a tiszta akril plexi lemezt, bármilyen betűt, formát tudunk lézer vágni. Minimum betűméret 20mm, az ennél kisebb betűknél már nagyon vékonyak a vonalak, elég az anyag. Víztiszta plexiből 3, 5, 8mm vastag anyagokat tartunk raktáron, de 3mm-es színes plexiből is jelentős készlettel rendelkezünk, legjellemzőbb színek a fehér, fekete, piros, citrom sárga, kék, zöld. Megrendelőink gyakran kérik kétoldalú ragasztóval a lézer vágott plexi betűket.
+A plexi az egyik legjobban hozzáférhető és kónnyen használható műanyag amit dekorációban és reklámozásban hasznűlhatunk. Az anyagot többféle néven is ismerheti, a  plexi, akril, acrylic valamint PMMA szavak mind ugyanazt az anyagot takarják.
+
+Gépeinkkel 15mm vastagságig vállaljuk a víztiszta akril lemez lézervágását, amiből bármilyen betű, forma tetszőlegesen megvalósítható. Minimum betűméret 20mm, az ennél kisebb betűknél már nagyon vékonyak a vonalak, elég az anyag. Víztiszta plexiből 3, 5, 8mm vastag anyagokat tartunk raktáron, de 3mm-es színes plexiből is jelentős készlettel rendelkezünk, legjellemzőbb színek a fehér, fekete, piros, citrom sárga, kék, zöld. Megrendelőink gyakran kérik kétoldalú ragasztóval a lézer vágott plexi betűket.
+
+## Bőr lézervágás
+A bőr egy 
+
+## Filc lézervágás
+
+## Lézervégés árak
