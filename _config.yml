@@ -9,6 +9,7 @@ url: "http://oko-hungary.eu/" # the base hostname & protocol for your site
 facebook_username: okohungary
 github_username:
 logo: "img/logo.svg"
+ga: UA-17340317-11
 # Build settings
 markdown: kramdown
 

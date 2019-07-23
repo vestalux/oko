@@ -13,6 +13,16 @@
       <meta property="og:site_name" content="{{ site.title }}">
       <meta property="og:image" content="{% if page.image %}{{ site.url }}{{ page.image }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}"">
 
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '{{ site.ga }}');
+      </script>
+
       <meta property="og:image:width" content="637" />
       <meta property="og:image:height" content="403" />
 
