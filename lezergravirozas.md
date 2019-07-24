@@ -1,5 +1,5 @@
 ---
-title: Lézergravirozas
+title: Lézergravírozás
 description: Lézerrel rajzolunk
 category: lézervágás
 layout: post
