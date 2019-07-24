@@ -26,8 +26,7 @@ A leggyakoribb adatformátum a CAD szoftver és a 3D printer között az STL (St
 
 
 
-
-## Felhasználható anyagokba
+## Felhasználható anyagok
 
 Cégünk Flashforge Dreamer gépekkel dolgozik, ezek a gépesek alkalmasak PLA, ABS, Nylon és egyéb műanyagok nyomtatására is. Beszállítóinknál sok különleges színű és tulajdonságú alapanyag áll rendelkezésre, csak a fantázia szab határt a megvalósíthatóságnak.
 
