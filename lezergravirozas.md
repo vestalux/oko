@@ -8,7 +8,7 @@ image: "img/lezervagas.jpg"
 ---
 Lézersugárral szinte bármilyen anyagra gravírozhatunk feliratokat, logót vagy akár családi fotókat is. A lézeres technikának köszönhetően elképesztő pontossággal készíthetünk egyedi dekorációt, exkluzív ajándékokat de ipari alkalmazásokban is az egyik legjobban alkalmazható jelölési technika.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eww3nH9cKPw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![{{site.baseurl}}img/foto-gravir.jpg](Gravírozott fotó)
 
 140W-os lézervágó gépünkkel nagy felületű lézergravírozási, vágási munkákat vállalunk. Gépünk munkaasztala 1300 x 2500 mm ami lehetővé teszi a nagyobb szériás munkákat is.
 
@@ -48,7 +48,7 @@ Gyakorlatilag minden olyan tárgy amin valami felirat vagy embléma szerepel lé
 A fa anyagok lézergravírozása adja az egyik legszebb végeredmény.  A gravírozott felület a hőhatás miatt sötétbarna lesz ami nagyon szép kontrasztot ad, de igény szerint csiszolással homokfúzással el is lehet tüntetni. Többféle fa anyagot tudunk megmunkálni, legelterjedtebb gravírozható anyag a rétegelt falemez, melyből 4/6/8mm-es vastagságúakat tartunk raktáron. Maximum 10mm-es rétegelt lemezt vágunk át, de gravírozást gyakorlatilag bármilyen vastag faanyagra vállalunk.
 A rétegelt falemez mellett több anyaggal is dolgozunk, köztük MDF, HDF lapokkal, parafával illetve különféle puhafával. Vektoros rajzok mellett akár hozott családi fotókat is tudunk gravírozni (ajándéktárgy, ültetőkártya, díszdoboz borokhoz stb). A vágás mellett vállaljuk a termékek összeszerelését illetve felületkezelését és festését is.
 
-
+![{{site.baseurl}}img/doboz-gravir.jpg](Gravírozott fotó)
 
 ## Plexi lézergravírozás
 
