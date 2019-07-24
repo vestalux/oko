@@ -8,6 +8,7 @@ body {
     @include serif-font;
 }
 
+img {max-width:100%; }
 hr {
     border-color: $theme-primary;
     border-width: 3px;
