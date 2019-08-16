@@ -8,9 +8,8 @@ image: "img/portfolio/lampa.jpg"
 ---
 A lézervágás az egyik legmodernebb megmunkálási módszer amivel fából késztermékeket lehet előállítani. A technikával hajszálvékony vágási felület keletkezik így olyan finom részleteket tudunk kidolgozni, ami hagyományos technikával lehetetlen lenne.
 
-
-!({{ site.url }}/img/csillar(1).jpg)
-!({{ site.url }}/img/csillar(2).jpg)
-!({{ site.url }}/img/csillar(3).jpg)
-!({{ site.url }}/img/csillar(4).jpg)
-!({{ site.url }}/img/csillar(5).jpg)
+![csillar]({{ site.url }}img/csillar(1).jpg)
+![csillar]({{ site.url }}img/csillar(2).jpg)
+![csillar]({{ site.url }}img/csillar(3).jpg)
+![csillar]({{ site.url }}img/csillar(4).jpg)
+![csillar]({{ site.url }}img/csillar(5).jpg)
