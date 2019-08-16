@@ -7,10 +7,10 @@ date: 2017-03-14 21:17
 <section class="no-padding" id="portfolio">
     <div class="container-fluid">
         <div class="row no-gutter">
-		
-		 
 
-     {% for post in site.portfolio limit:6 %}
+
+
+     {% for post in site.portfolio limit:12 %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{{ site.url }}/{{ post.url }}" class="portfolio-box">
                     <img src="{{ post.image }}" class="img-responsive" alt="">
@@ -27,8 +27,8 @@ date: 2017-03-14 21:17
                 </a>
             </div>
 		{% endfor %}
-			  
-			
+
+
         </div>
     </div>
 </section>
