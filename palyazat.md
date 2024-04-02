@@ -9,8 +9,6 @@ image: "img/palyazat.png"
 ---
 
 
-<p><img src="https://vestalux.github.io/oko/img/palyazat.png"></p>
-
 A kedvezményezett neve - ÖKO-HUNGARY Termelő és Szolgáltató Szociális Szövetkezet
 
 A projekt címe - Lakásdekorációs termékek gyártása lézertechnikával
